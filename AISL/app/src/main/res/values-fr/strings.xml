@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_prenom">AuthentificationProject</string>
+    <string name="presentation">Enter votre nom et votre mot de passe</string>
+    <string name="bonjour">Hello</string>
+    <string name="button">Connecter</string>
+</resources>
