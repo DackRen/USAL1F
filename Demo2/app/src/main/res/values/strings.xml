@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Demo2</string>
+    <string name="app_name">VelibApplication</string>
+    <string-array name="main_items">
+        <item>Voir les stations Velib</item>
+        <item>A propos des Velibs</item>
+    </string-array>
+    <string name="about_text">Vélib’ (mot-valise, contraction de vélo et liberté) est le système de vélos en libre-service de Paris disponible depuis le 15 juillet 2007. Mis en place par la Mairie de Paris, il est géré par le groupe industriel JCDecaux qui décline à cette occasion une version parisienne de son système Cyclocity. Par extension, « vélib’ » désigne la bicyclette elle-même.</string>
 </resources>

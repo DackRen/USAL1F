@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="071ac174574cf79e17b53f9cf438b6a931380954">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2bc702f19e5af62b42c084484733e0181ca9ea58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_34e9166743eff10d29a410c8ef20cccb79b8317e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_cfee3ab48163feeffd9fb88b4e4d55886541a23f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_6a3311b5d9ed080f52cd340bef5a77e679f45dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_cc8003cc03953e35a64468303f576245ac2f7759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6aa820aae471cc239d926f7c503d36271d4f377e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_fcca439d590e9b66ed630a7c12ca7761dcdb827e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_204c341fed712ddb02ee6cacfb2060562f376471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_06b1df72d623b3c36ca82f6d819ede5925da1516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_7d9c3e047557a1a248479f8183a62a79d4b20998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ed7cac39b5b2bd8db980127ddc01e11180e68c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b239469adc261d9ae78b0f1587c2cf857cb8cad">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5148f3eb1ee0a4007dfa8c0fa26ab0bf103b62ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_ed872fc0b1fcd4b290e0146dd5d4009680b34370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_0d2c32457e7818c60a97fcfc5866393e2ebb1826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_2ae530ee14bd4b8d511f59ae67a933602f414832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5211524d5422eaec7c4c8891d4eccd445f9b7792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_6f2ec982b3cb83f8f8f5a04a3dc4206ab3aa4632/classes.dex" />
+    </item>
+
+</items>
