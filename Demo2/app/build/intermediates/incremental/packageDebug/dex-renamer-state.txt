@@ -1,4 +1,4 @@
-#Sat Nov 12 16:51:36 CET 2016
+#Mon Dec 12 13:42:56 CET 2016
 base.0=/Users/renjunzhou/code/android/Demo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2bc702f19e5af62b42c084484733e0181ca9ea58
 renamed.1=classes.dex
 renamed.0=classes2.dex

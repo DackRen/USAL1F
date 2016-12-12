@@ -29,7 +29,7 @@ public class StationAdapter extends ArrayAdapter<StationVelib> {
 
     @NonNull
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(final int position, View convertView, ViewGroup parent) {
         // 1- create a view with a number and an address
         View line = null;
         if (convertView == null) {

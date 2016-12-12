@@ -21,6 +21,10 @@ public class StationParser extends DefaultHandler {
         stationList = new ArrayList<>();
     }
 
+    public static double parseDouble (String s){
+        return Double.parseDouble(s);
+    }
+
     @Override
     public void startDocument() throws SAXException {
         Log.i("StationParser", "Open the XML Stream");
@@ -39,6 +43,11 @@ public class StationParser extends DefaultHandler {
             stationVelib.setNumero(numero);
             String adresse  = attributes.getValue("address");
             stationVelib.setNom(adresse);
+            //set latitude and longitude
+            String latitude   = attributes.getValue("latitude");
+            stationVelib.setLatitude(parseDouble(latitude));
+            String longitude  = attributes.getValue("longitude");
+            stationVelib.setLongitude(parseDouble(longitude));
             stationList.add(stationVelib);
         }
     }

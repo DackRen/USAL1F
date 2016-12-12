@@ -5,9 +5,16 @@ package fr.cnam.velibapplication;
  */
 
 public class StationVelib {
+    /*
+    Attr.
+     */
     private String nom;
     private String numero;
-
+    private double latitude;
+    private double longitude;
+    /*
+    Getter and Setter
+     */
     public String getNom() {
         return nom;
     }
@@ -24,11 +31,23 @@ public class StationVelib {
         this.numero = numero;
     }
 
+    public double getLatitude() { return latitude; }
+
+    public void setLatitude(double latitude) { this.latitude = latitude; }
+
+    public double getLongitude() { return longitude;}
+
+    public void setLongitude(double longitude) { this.longitude = longitude; }
+    /*
+    business
+     */
     @Override
     public String toString() {
         return "StationVelib{" +
                 "nom='" + nom + '\'' +
                 ", numero='" + numero + '\'' +
+                ", latitude='" + latitude + '\'' +
+                ", longitude='" + longitude + '\'' +
                 '}';
     }
 }
