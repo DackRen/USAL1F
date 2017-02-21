@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Les Velibs</string>
+    <string name="seeAllStations">Voir les stations</string>
+    <string name="aboutUs">A propos des vélibs</string>
+    <string name="texteVelib">Les vélibs c\'est chouette</string>
+    <string name="chargement_message">En cours de chargement</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="whereAmI">Où suis-je</string>
+    whereAmI
+</resources>
