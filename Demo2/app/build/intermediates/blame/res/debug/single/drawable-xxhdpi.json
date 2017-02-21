@@ -48,12 +48,12 @@
         "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/drawable-xxhdpi/cast_ic_notification_0.png"
     },
     {
-        "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
-        "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/res/drawable-xxhdpi/powered_by_google_light.png"
-    },
-    {
         "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png",
         "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
+        "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/res/drawable-xxhdpi/powered_by_google_light.png"
     },
     {
         "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png",

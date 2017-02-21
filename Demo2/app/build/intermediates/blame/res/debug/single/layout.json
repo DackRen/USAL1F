@@ -172,12 +172,12 @@
         "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/renjunzhou/code/android/Demo2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
